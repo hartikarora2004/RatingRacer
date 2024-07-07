@@ -32,7 +32,6 @@ Write all the CodeForces user handles in [input.txt](https://github.com/TheVikin
 python cf_racer.py
 ```
 ## Collaborators
--> Sneha Sahu
-
+-> Sneha Sahu<br>
 -> Hartik Arora
 
